@@ -1,0 +1,7 @@
+export { default as Carousel} from './Carousel/index.vue'
+export { default as Categories} from './Categories/index.vue'
+export { default as HeaderBar} from './HeaderBar/index.vue'
+export { default as SubProduct} from './SubProduct/index.vue'
+export { default as MobileCategories} from './Categories/mobile.vue'
+export { default as ProductDetail} from './ProductDetail/index.vue'
+export { default as FastInputQuantity} from './FastInputQuantity/index.vue'
